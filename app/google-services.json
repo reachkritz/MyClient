@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "689802996536",
+    "firebase_url": "https://myclient-ccc61.firebaseio.com",
+    "project_id": "myclient-ccc61",
+    "storage_bucket": "myclient-ccc61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689802996536:android:21cc82a051baaf4b",
+        "android_client_info": {
+          "package_name": "com.example.hpcom.myclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689802996536-kco8gbjr3vb0tfdau20vg4gv9da2q6df.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXX-m6pe9qTHd63L6sr4KBe88c7tCgKDU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HappyBirthday</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="FCM_PREF">com.example.hpcom.myclient.fcm_pref</string>
+    <string name="FCM_TOKEN">com.example.hpcom.myclient.fcm_token</string>
+
+    <string name="action_settings">Settings</string>
+
+
+</resources>
